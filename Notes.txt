@@ -1,0 +1,9 @@
+
+
+byte[] initVectorBytes = password.GetBytes(symmetricKey.BlockSize / 8); -> http://codereview.stackexchange.com/a/20641
+
+http://stackoverflow.com/a/6531179/492298
+
+https://msdn.microsoft.com/en-us/library/system.security.cryptography.rijndael(v=vs.110).aspx
+
+http://blogs.msdn.com/b/shawnfa/archive/2006/10/09/the-differences-between-rijndael-and-aes.aspx

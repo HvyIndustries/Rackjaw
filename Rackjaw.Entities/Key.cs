@@ -1,6 +1,6 @@
 ﻿namespace Rackjaw.Entities
 {
-    class Key
+    public class Key
     {
     }
 }
