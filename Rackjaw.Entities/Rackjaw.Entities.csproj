@@ -40,7 +40,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Key.cs" />
+    <Compile Include="Secret.cs" />
     <Compile Include="Vault.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
